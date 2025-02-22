@@ -31,7 +31,7 @@ The goal of this project is to analyze the financial performance of MBAN Store u
 ---
 
 ## How to Use
-1. Download the Tableau workbook: [Group 4 - OMIS Store Final Dashboard.twbx](./Group%204%20-%20OMIS%20Store%20Final%20Dashboard.twbx).
+1. Download the Tableau workbook
 2. Open it in Tableau Desktop.
 3. Navigate through the interactive dashboards to explore insights and recommendations.
 

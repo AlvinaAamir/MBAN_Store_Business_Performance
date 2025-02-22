@@ -32,7 +32,6 @@ The goal of this project is to analyze the financial performance of MBAN Store u
 
 ## Files
 1. **Tableau Workbook**: [MBAN Store Dashboards.twbx](./Group%204%20-%20OMIS%20Store%20Final%20Dashboard.twbx)
-2. **Static Dashboards** (optional): Add links or files for static exports if required.
 
 ---
 

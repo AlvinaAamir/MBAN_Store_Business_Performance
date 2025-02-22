@@ -27,12 +27,7 @@ The goal of this project is to analyze the financial performance of MBAN Store u
 ## Tools Used
 - **Visualization**: Tableau
 - **Dataset**: MBAN Store financial and sales data
-
----
-
-## Files
-1. **Tableau Workbook**: [MBAN Store Dashboards.twbx](./Group%204%20-%20OMIS%20Store%20Final%20Dashboard.twbx)
-
+  
 ---
 
 ## How to Use
